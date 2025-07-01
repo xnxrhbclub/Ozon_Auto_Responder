@@ -1,5 +1,7 @@
 # Ozon_Auto_Responder
 
+![preview](https://github.com/user-attachments/assets/23f26f4b-653e-438f-9b8d-b912270082f2)
+
 Автоматизированный инструмент для ответов на отзывы продавца на Ozon с графическим интерфейсом.
 
 ## Возможности
